@@ -1,12 +1,11 @@
 export interface Luchador {
-  id: number;
   nombre: string;
   apodo: string;
-  pais: string;
-  estilo: string;
-  victorias: number;
-  derrotas: number;
   imagen: string;
+  estilo: string;
+  pais: string;
+  historia: string;
+  derrotas: number;
 }
 
 export interface Pelea {
