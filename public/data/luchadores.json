@@ -1,0 +1,163 @@
+[
+    {
+      "id": 1,
+      "nombre": "El Fénix",
+      "apodo": "Ave de fuego",
+      "pais": "México",
+      "estilo": "Lucha libre",
+      "victorias": 35,
+      "derrotas": 5,
+      "imagen": "/img/fenix.png"
+    },
+    {
+      "id": 2,
+      "nombre": "Iron Tiger",
+      "apodo": "La Garra de Acero",
+      "pais": "Estados Unidos",
+      "estilo": "Wrestling",
+      "victorias": 42,
+      "derrotas": 8,
+      "imagen": "/img/irontiger.png"
+    },
+    {
+      "id": 3,
+      "nombre": "Sombra Roja",
+      "apodo": "El Silencioso",
+      "pais": "Colombia",
+      "estilo": "Lucha técnica",
+      "victorias": 27,
+      "derrotas": 10,
+      "imagen": "/img/sombraroja.png"
+    },
+    {
+      "id": 4,
+      "nombre": "Thunder Strike",
+      "apodo": "El Rayo",
+      "pais": "Japón",
+      "estilo": "Strong style",
+      "victorias": 50,
+      "derrotas": 2,
+      "imagen": "/img/thunderstrike.png"
+    },
+    {
+      "id": 5,
+      "nombre": "Pantera Negra",
+      "apodo": "El Sigiloso",
+      "pais": "Brasil",
+      "estilo": "Capoeira wrestling",
+      "victorias": 33,
+      "derrotas": 7,
+      "imagen": "/img/panteranegra.png"
+    },
+    {
+      "id": 6,
+      "nombre": "El Jaguar",
+      "apodo": "La Bestia del Sur",
+      "pais": "Argentina",
+      "estilo": "Lucha libre",
+      "victorias": 29,
+      "derrotas": 6,
+      "imagen": "/img/jaguar.png"
+    },
+    {
+      "id": 7,
+      "nombre": "Shadow Wolf",
+      "apodo": "El Lobo Nocturno",
+      "pais": "Canadá",
+      "estilo": "Wrestling técnico",
+      "victorias": 39,
+      "derrotas": 9,
+      "imagen": "/img/shadowwolf.png"
+    },
+    {
+      "id": 8,
+      "nombre": "El Dragón Azul",
+      "apodo": "Furia Oriental",
+      "pais": "China",
+      "estilo": "Kung Fu Wrestling",
+      "victorias": 45,
+      "derrotas": 4,
+      "imagen": "/img/dragónazul.png"
+    },
+    {
+      "id": 9,
+      "nombre": "Tornado",
+      "apodo": "El Giro Mortal",
+      "pais": "Chile",
+      "estilo": "Aéreo",
+      "victorias": 31,
+      "derrotas": 11,
+      "imagen": "/img/tornado.png"
+    },
+    {
+      "id": 10,
+      "nombre": "Reina Escarlata",
+      "apodo": "La Emperatriz",
+      "pais": "España",
+      "estilo": "Lucha mixta",
+      "victorias": 37,
+      "derrotas": 6,
+      "imagen": "/img/reinaescarlata.png"
+    },
+    {
+      "id": 11,
+      "nombre": "El Kraken",
+      "apodo": "La Marea Salvaje",
+      "pais": "Islandia",
+      "estilo": "Fuerza bruta",
+      "victorias": 28,
+      "derrotas": 3,
+      "imagen": "/img/kraken.png"
+    },
+    {
+      "id": 12,
+      "nombre": "Cóndor Blanco",
+      "apodo": "Viento de los Andes",
+      "pais": "Perú",
+      "estilo": "Lucha aérea",
+      "victorias": 26,
+      "derrotas": 14,
+      "imagen": "/img/condorblanco.png"
+    },
+    {
+      "id": 13,
+      "nombre": "Viper Queen",
+      "apodo": "La Serpiente Real",
+      "pais": "Reino Unido",
+      "estilo": "Estilo técnico",
+      "victorias": 40,
+      "derrotas": 5,
+      "imagen": "/img/viperqueen.png"
+    },
+    {
+      "id": 14,
+      "nombre": "Blitz",
+      "apodo": "Explosión Alemana",
+      "pais": "Alemania",
+      "estilo": "Strong grappling",
+      "victorias": 34,
+      "derrotas": 10,
+      "imagen": "/img/blitz.png"
+    },
+    {
+      "id": 15,
+      "nombre": "Kuro Oni",
+      "apodo": "El Demonio Negro",
+      "pais": "Japón",
+      "estilo": "Puroresu",
+      "victorias": 48,
+      "derrotas": 1,
+      "imagen": "/img/kurooni.png"
+    },
+    {
+      "id": 16,
+      "nombre": "La Valquiria",
+      "apodo": "Hija del Trueno",
+      "pais": "Noruega",
+      "estilo": "Combate vikingo",
+      "victorias": 36,
+      "derrotas": 7,
+      "imagen": "/img/valquiria.png"
+    }
+  ]
+  
